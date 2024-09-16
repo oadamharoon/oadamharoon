@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi, I'm Adam Haroon
 
-### Boeing Research Fellow | Robotics Researcher | Computer Science Sophomore @ Iowa State University
+### Boeing Research Fellow | Robotics Researcher | CS + Mathematics Sophomore @ Iowa State University
 > I love learning, growing from failures, and contributing to a bettered society through innovative robotics research.
 
 #### 🔭 Current Work
