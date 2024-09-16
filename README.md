@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, I'm Adam Haroon
+## Hi, I'm Adam Haroon 👋
 
 ### Boeing Research Fellow | Robotics Researcher | CS + Math Sophomore @ Iowa State University
 > I love learning, growing from failures, and contributing to a bettered society through innovative robotics research.
