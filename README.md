@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 ## Hi, I'm Adam Haroon 👋
 
-### Boeing Research Fellow | Robotics Researcher | CS + Math Sophomore @ Iowa State University
+### NASA Research Scholar| Robotics Researcher | CS + Math Junior @ Iowa State University
 > I love learning, growing from failures, and contributing to a bettered society through innovative robotics research.
 
 #### 🔭 Current Work
-- **Boeing Research Fellow** @ Iowa State University's Coordinated Systems Laboratory
+- **NSF, NASA, and Boeing Research Fellow** @ Iowa State University's Coordinated Systems Laboratory
   - Researching urban air mobility systems modeled as reinforcement learning agents.
 - **Research Assistant** @ Drake University Computer Vision and Robotics Laboratory
   - Developing unsupervised human fatigue discovery methods using time series analysis.
